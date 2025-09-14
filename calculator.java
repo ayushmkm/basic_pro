@@ -7,7 +7,7 @@ class calculator{
         double number1 = scanner.nextDouble();
         scanner.nextLine();
         
-        System.out.println("Enter First number : ");
+        System.out.println("Enter Second number : ");
         double number2 = scanner.nextDouble();
         scanner.nextLine();
         
