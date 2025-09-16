@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 class calculator{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
